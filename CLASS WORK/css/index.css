@@ -1,0 +1,51 @@
+.pover {
+  position: absolute;
+width: 492px;
+height: 45px;
+left: calc(50% - 492px/2);
+top: -2px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 45px;
+/* identical to box height, or 112% */
+
+text-align: center;
+
+color: #000000;
+}
+.defens {
+  position: absolute;
+width: 783px;
+height: 30px;
+left: calc(50% - 783px/2 + 0.5px);
+top: 71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 30px;
+/* identical to box height, or 200% */
+
+text-align: center;
+
+color: #000000;
+}
+.serj {
+  height: 560px;
+width: 996px;
+border-radius: 0px;
+position: absolute;
+height: 560px;
+left: 222%;
+right: 222%;
+top: 287%;
+
+background: url();
+border-radius: 0px;
+  
+
+}
